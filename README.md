@@ -10,73 +10,70 @@
 <body>
   <center>
 
-
-
+</h1>
 
 <h3 align="center"> An aspiring Data Analyst from India </h3>
+<br/>
 
 
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+
   <div align="center">
 <img src="https://th.bing.com/th/id/R.929d6e88c0078b31c69d8d0385dd13fb?rik=xYOfMWxNafS6sw&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f34100000%2f-Naruto-Gifs-naruto-34139589-500-281.gif&ehk=btvSzikmkhlTjrE%2bk555F100NOqVdXpgTkkKAPeQMGY%3d&risl=&pid=ImgRaw&r=0" align="right">
   </div>
 <li>
- <b>Name:</b> Miella</li>
-<li>
-<b>Fursona:</b> Grey Wolf/Snow Fox, sometimes a Bird
-</li>
-<li>
-<b>Loves:</b> anime, osu, rhythm games
-</li>
-<li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>LastFM:</b> https://scrobble.egirl.ing
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
-</li>
-<br><br><br>
-</div>
-<div>
 
+<br><br><br>
+<div>
+    <div align="center">
+       <p>Through chaos of noise, I find the tune,</p>
+      <p>The language of logic beneath the moon.</p>
+       <p>Every null a whisper, every spike a sign,</p>
+        <p>I make the data speak—line by line.</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a Ecommerce project**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Python & Machine Learning**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Excel,SQL,Power BI... or anything [here](https://github.com/sino-datagenius/sino-datagenius7/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Watching anime while visualizing data increases productivity by 200% (source: my soul)**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:kanhucharan.connect@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="www.linkedin.com/in/kanhu-dataexpert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://github.com/sino-datagenius" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<br/>
+<br/>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,mysql,postgresql,sqlite,git,notion,python" />
+    <!-- <img src="https://skillicons.dev/icons?i=python,notion,mysql" /><br> -->
+    <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="50"/>
+  <!-- Tableau -->
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" height="40"/>
+
 </div>
 
 <br/>
@@ -85,8 +82,14 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sino-datagenius/sino-datagenius/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sino-datagenius/sino-datagenius/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sino-datagenius/sino-datagenius/output/pacman-contribution-graph.svg">
+</picture>
+
+
   <br/><br/><br/>
 </div>
 
@@ -114,11 +117,5 @@
 <br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
