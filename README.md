@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%E2%9D%A4%EF%B8%8F+Welcome+to+my+Profile+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
 <body>
   <center>
 
@@ -17,8 +17,9 @@
 
 
 
+
   <div align="center">
-<img src="https://th.bing.com/th/id/R.929d6e88c0078b31c69d8d0385dd13fb?rik=xYOfMWxNafS6sw&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f34100000%2f-Naruto-Gifs-naruto-34139589-500-281.gif&ehk=btvSzikmkhlTjrE%2bk555F100NOqVdXpgTkkKAPeQMGY%3d&risl=&pid=ImgRaw&r=0" align="right">
+<img src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif" align="right" width="500" height="250">
   </div>
 <li>
 
