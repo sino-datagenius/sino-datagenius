@@ -19,7 +19,7 @@
 
 
   <div align="center">
-<img src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif" align="right" width="500" height="250">
+<img src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif" align="right" width="420" height="250">
   </div>
 <li>
 
