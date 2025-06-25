@@ -121,3 +121,50 @@
 <hr/>
 
 <br/>
+
+## Check out my projects 
+
+<div align="left">
+<pre>
+1. <a href="https://github.com/sino-datagenius/sino-datagenius">My github profile codes </a>
+<br>
+<p>An animated GitHub README blending poetry, flair, and technical depth. Designed to showcase not just projects—but personality through every scroll.</p>
+</pre>
+<br>
+<pre>
+2. <a href="https://github.com/sino-datagenius/sino-datagenius.github.io">My Portfolio codes </a>
+<br>
+<p>A sleek, scroll-friendly portfolio showcasing my journey in data analytics—featuring dashboards, storytelling, and a touch of design flair.Built to reflect both my technical depth and creative spark, one project at a time.</p>
+</pre>
+<br>
+<pre>
+3. <a href="https://github.com/sino-datagenius/Super-Store-Sales-analysis">Super Store Sales analysis</a>
+<br>
+<p>Developed a Super Store Sales Dashboard analyzing 3 years of sales data to deliver strategic growth insights,product performance reviews, and operational improvements.Included action-oriented recommendations and KPIs to optimize delivery efficiency, regional sales, and customer segment penetration.</p>
+</pre>
+<br>
+<pre>
+4. <a href="https://github.com/sino-datagenius/Ferns-and-Petals-Sales-Analysis-using-Excel">Ferns and Petals Sales Analysis using Excel</a>
+<br>
+<p>Ferns & Petals Sales Analysis: Conducted comprehensive analysis of ₹35.2L revenue dataset using Excel Power Query, Power Pivot, and advanced DAX functions, delivering 10 key business insights with strategic improvement plans targeting 25% revenue growth.</p>
+</pre>
+<br>
+<pre>
+5. <a href="https://github.com/sino-datagenius/Super-Store-Sales-analysis">Apple Stock Analysis 2020-2025)</a>
+<p>Analyzed Apple Inc.'s stock performance (2020–2025) using Python, time-series analysis, and technical indicators to uncover trends, volatility, and event-driven insights.</p>
+</pre>
+<br>
+<pre>
+6. <a href="https://github.com/sino-datagenius/Purrfect-Data-Project">It's Raining Cats</a>
+<br>
+<p>A playful yet practical data cleaning project that transforms messy feline breed data into a clean, analysis-ready format using Python and pandas.
+Showcases robust imputation, formatting fixes, and real-world preprocessing techniques for aspiring data analysts.</p>
+</pre>
+<br>
+<pre>
+7. <a href="https://github.com/sino-datagenius/Library-Master-Project">Library Management System</a>
+<br>
+<p>Designed a relational database system to manage library operations, enabling efficient tracking of books, 
+members, and transactions through advanced SQL queries and automation.</p>
+</pre>
+
