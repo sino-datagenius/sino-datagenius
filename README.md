@@ -12,7 +12,7 @@
 
 </h1>
 
-<h3 align="center"> An aspiring Data Analyst from India </h3>
+<h3 align="center"> A Data Analyst from India </h3>
 <br/>
 
 
